@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+   
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/menu.css" />
+    <link rel="stylesheet" href="../css/estudios.css" />
+    <link rel="stylesheet" href="../css/recientes.css" />
+    <link rel="stylesheet" href="../css/lightslider.css" />
+    <link rel="stylesheet" href="./css//peliculas-section.css" />
+    <script src="../js/JQuery3.3.1.js"></script>
+    <script src="../js/lightslider.js"></script>
+    <script src="https://kit.fontawesome.com/c268c49d7e.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <a class="logo" asp-area="" asp-controller="Home" asp-action="Index">
+
+              <img src="../images/icons/logo2.png" id="logos" />
+
+             </a>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                   
+                        <ul class="menu">
+                            <li><a asp-area="" asp-controller="Home" asp-action="Index">Aprende Mas</a></li>
+                            <li><a asp-area="" asp-controller="Home" asp-action="Historias">Historias Inspiradoras</a></li>
+                            <li><a asp-area="" asp-controller="Home" asp-action="MedioA">Medio Ambiente</a></li>
+                            <li><a asp-area="" asp-controller="Home" asp-action="RecursosE">Recursos Educativos</a></li>
+                            <li><a asp-area="" asp-controller="Home" asp-action="Unete">Unete</a></li>
+                            
+                        </ul>
+                   
+                </div>
+                <div class="search">
+                    <input type="text" placeholder="Buscar" />
+                    <i class="fas fa-search"></i>
+                </div>
+
+                <img src="../images/icons/sun.png" id="icon" />
+            <script>
+                var icon = document.getElementById("icon");
+                var logos = document.getElementById("logos");
+
+                icon.onclick = function () {
+                    document.body.classList.toggle("light-theme");
+                    if (document.body.classList.contains("light-theme")) {
+                        icon.src = "../images/icons/moon.png";
+                        logos.src = "../images//icons/logo.png";
+                    } else {
+                        icon.src = "../images/icons/sun.png";
+                        logos.src = "../images/icons/logo2.png";
+
+                    }
+                }
+            </script>
+
+            <script>
+                $(document).ready(function () {
+                    $('#slider-estudios,#slider-recientes').lightSlider({
+                        autoWidth: true,
+                        loop: true,
+                        onSliderLoad: function () {
+                            $('#slider-recomendadas,#slider-peli-recientes').removeClass('cS-hidden');
+                        }
+                    });
+                });
+
+            </script>
+        </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+           
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

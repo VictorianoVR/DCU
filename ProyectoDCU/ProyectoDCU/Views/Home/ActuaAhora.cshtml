@@ -1,0 +1,187 @@
+@{
+    ViewData["Title"] = "ActuaAhora";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link rel="shortcut icon" href="./images/icons/fav icon.png">
+
+    <script src="https://kit.fontawesome.com/c268c49d7e.js" crossorigin="anonymous"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+
+    <script src="./js/JQuery3.3.1.js"></script>
+    <script src="./js/lightslider.js"></script>
+
+
+
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/menu.css" />
+    <link rel="stylesheet" href="./css/estudios.css" />
+    <link rel="stylesheet" href="./css/recientes.css" />
+    <link rel="stylesheet" href="./css/lightslider.css" />
+    <link rel="stylesheet" href="./css//peliculas-section.css" />
+
+
+
+    <title>Medio Ambiente - Actúa Ahora</title>
+</head>
+<body>
+    <nav>
+        <a href="#" class="logo">
+            <img src="./images/logo1.jpg" id="logos" />
+        </a>
+
+
+
+        <ul class="menu">
+
+            <li><a href="Medio Ambiente.html">Aprende Mas</a></li>
+            <li><a href="Historias Inspiradoras.html">Historias Inspiradoras</a></li>
+            <li><a href="Actúa Ahora.html">Actúa Ahora</a></li>
+            <li><a href="Recursos Educativos.html">Recursos Educativos</a></li>
+            <li><a href="Unete.html">Unete</a></li>
+
+        </ul>
+
+
+
+
+        <div class="search">
+
+            <input type="text" placeholder="Buscar" />
+
+
+            <i class="fas fa-search"></i>
+
+
+        </div>
+
+        <img src="./images/icons/sun.png" id="icon" />
+    </nav>
+
+
+    <section id="estudios">
+    </section>
+
+
+    <section id="main">
+    </section>
+    <h4 class="estudios-heading">Acciones concretas que los visitantes pueden tomar para reducir su huella de carbono y contribuir a la lucha contra la contaminación</h4>
+    <h2 class="estudios-heading">Uso Eficiente de la Energía</h2>
+    <ul>
+        <li>Reemplaza las bombillas incandescentes por LED.</li>
+        <li>Desconecta dispositivos electrónicos cuando no los uses</li>
+        <li>Utiliza electrodomésticos con etiqueta de eficiencia energética</li>
+        <li>Aprovecha la luz natural y ventila tu hogar adecuadamente</li>
+        <li>Considera instalar paneles solares si es posible</li>
+
+    </ul>
+
+
+    <h2 class="estudios-heading"> Reducción del Consumo de Agua</h2>
+    <ol>
+        <li>Repara las fugas de agua inmediatamente.</li>
+        <li>Instala cabezales de ducha y grifos de bajo flujo</li>
+        <li>Recoge agua de lluvia para riego</li>
+        <li>Lava la ropa y los platos en cargas completas</li>
+        <li>Riega las plantas temprano en la mañana o tarde en la tarde para reducir la evaporación</li>
+    </ol>
+
+    <h2 class="estudios-heading"> Transporte Sostenible</h2>
+    <ol>
+        <li>Opta por caminar, andar en bicicleta o usar el transporte público siempre que sea posible</li>
+        <li>Comparte viajes con amigos o colegas</li>
+        <li>Elige vehículos de alta eficiencia energética o híbridos</li>
+        <li>Planifica tus rutas para evitar atascos y optimizar el consumo de combustible</li>
+        <li>Considera la opción de trabajar desde casa o de forma remota para reducir los desplazamientos</li>
+    </ol>
+
+    <h2 class="estudios-heading"> Consumo Responsable</h2>
+    <ol>
+        <li>Compra productos duraderos y de calidad</li>
+        <li>Prefiere productos con envases reutilizables o reciclables</li>
+        <li>Reduce el consumo de carne y productos de origen animal</li>
+        <li>Evita el derroche de alimentos planificando tus compras y almacenamiento</li>
+        <li>Opta por productos locales y de temporada para reducir la huella de transporte</li>
+    </ol>
+
+    <h2 class="estudios-heading"> Reducción de Residuos </h2>
+    <ol>
+        <li>Practica el reciclaje adecuado de papel, plástico, vidrio y metal</li>
+        <li>Rechaza productos de un solo uso, como pajitas y bolsas plásticas</li>
+        <li>Composta los desechos orgánicos en tu jardín</li>
+        <li>Dona o vende artículos en lugar de desecharlos</li>
+        <li>Participa en limpiezas locales y recogidas de basura en tu comunidad</li>
+    </ol>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        var icon = document.getElementById("icon");
+        var logos = document.getElementById("logos");
+
+        icon.onclick = function () {
+            document.body.classList.toggle("light-theme");
+            if (document.body.classList.contains("light-theme")) {
+                icon.src = "/images/icons/moon.png";
+                logos.src = "/images//icons/logo.png";
+            } else {
+                icon.src = "/images/icons/sun.png";
+                logos.src = "/images/icons/logo2.png";
+
+            }
+        }
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('#slider-estudios,#slider-recientes').lightSlider({
+                autoWidth: true,
+                loop: true,
+                onSliderLoad: function () {
+                    $('#slider-recomendadas,#slider-peli-recientes').removeClass('cS-hidden');
+                }
+            });
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+:root{
+
+
+    --header-color: #111111; 
+    --nava-color:  #ffff;
+    --search-color: rgb(255, 255, 255);
+    --searchicon-color: #121212;
+    --searchplaceholder-color: #111111;
+    --borderbuttom-color: rgba(255, 255, 255, 0.281);
+
+}
+.light-theme{
+--header-color: #ffffff; 
+--nava-color:  rgb(27, 27, 27);
+--search-color: rgb(32, 32, 32);
+--searchicon-color: #ffff;
+--searchplaceholder-color: #fff;
+--borderbuttom-color: rgba(0, 0, 0, 0.281);
+
+
+}
+.top {
+    margin: 150px;
+}
+
+
+ul{
+
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+
+
+nav{
+    
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    width: 100%;
+    border-bottom: 1px solid var(--borderbuttom-color);
+    background-color: var(--header-color);
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 100;
+}
+
+.logo img {
+    margin: 0px;
+    padding: 0px;
+    height: 80px;
+}
+
+nav .menu{
+
+    display: flex;
+}
+
+nav .menu li a{
+    height: 40px;
+    line-height: 43px;
+    margin: 0px;
+    padding: 0px 22px;
+    display: flex;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 550;
+    color: var(--nava-color);
+    letter-spacing: 1px;
+
+}
+
+
+.search{
+    width: 250px;
+    height: 35px;
+    background-color: var(--search-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    padding: 0px 20px;
+}
+
+.search:hover{
+    border: 1px solid var(--search-color);
+    
+}
+
+.search input, ::placeholder{
+    width: 100%;
+    height: 30px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: var(--searchplaceholder-color);
+    
+}
+
+.search i{
+    color: var(--searchicon-color);
+}
+
+#icon{
+    width: 25px;
+    
+    cursor: pointer;
+    
+}
+
+nav .menu li a:hover{
+    background-color: #242424;
+    color: #ffffff;
+    box-shadow: 5px 10px 30px rgba(53,53,53,0.1);
+    border-radius: 10px;
+    transition: all ease 0.1s;
+
+}
+

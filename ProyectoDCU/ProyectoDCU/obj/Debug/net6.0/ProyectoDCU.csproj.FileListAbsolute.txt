@@ -1,0 +1,240 @@
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.staticwebassets.runtime.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.exe
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.deps.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.runtimeconfig.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.AssemblyReference.cache
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfoInputs.cache
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfo.cs
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CoreCompileInputs.cache
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cache
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cs
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDCU.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDCU.props
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDCU.props
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDCU.props
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\bundle\ProyectoDCU.styles.css
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDCU.bundle.scp.css
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CopyComplete
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\refint\ProyectoDCU.dll
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.genruntimeconfig.cache
+C:\Users\Victoriano\Desktop\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ref\ProyectoDCU.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.staticwebassets.runtime.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.exe
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.deps.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.runtimeconfig.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cache
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cs
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDCU.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDCU.props
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDCU.props
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDCU.props
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\bundle\ProyectoDCU.styles.css
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDCU.bundle.scp.css
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CopyComplete
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\refint\ProyectoDCU.dll
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Escritorio\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ref\ProyectoDCU.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfo.cs
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cache
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cs
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\refint\ProyectoDCU.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.staticwebassets.runtime.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.exe
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.deps.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.runtimeconfig.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDCU.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDCU.props
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDCU.props
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDCU.props
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\bundle\ProyectoDCU.styles.css
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDCU.bundle.scp.css
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CopyComplete
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.genruntimeconfig.cache
+C:\Users\migue\Downloads\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ref\ProyectoDCU.dll
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.AssemblyReference.cache
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfoInputs.cache
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfo.cs
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CoreCompileInputs.cache
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.MvcApplicationPartsAssemblyInfo.cache
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cache
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cs
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.dll
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\refint\ProyectoDCU.dll
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.pdb
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.Development.json
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.json
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.staticwebassets.runtime.json
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.exe
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.deps.json
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.runtimeconfig.json
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.pdb
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDCU.Microsoft.AspNetCore.StaticWebAssets.props
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDCU.props
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDCU.props
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDCU.props
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.pack.json
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.build.json
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.development.json
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\bundle\ProyectoDCU.styles.css
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDCU.bundle.scp.css
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CopyComplete
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.genruntimeconfig.cache
+E:\c#\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ref\ProyectoDCU.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\appsettings.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.staticwebassets.runtime.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.exe
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.deps.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.runtimeconfig.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.AssemblyReference.cache
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfoInputs.cache
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.AssemblyInfo.cs
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CoreCompileInputs.cache
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cache
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.RazorAssemblyInfo.cs
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDCU.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDCU.props
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDCU.props
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDCU.props
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\bundle\ProyectoDCU.styles.css
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDCU.bundle.scp.css
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.csproj.CopyComplete
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\refint\ProyectoDCU.dll
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.pdb
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ProyectoDCU.genruntimeconfig.cache
+C:\Users\Victoriano\Desktop\Proyecto DCU\ProyectoDCU\ProyectoDCU\obj\Debug\net6.0\ref\ProyectoDCU.dll
